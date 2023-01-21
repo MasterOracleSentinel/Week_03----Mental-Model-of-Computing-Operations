@@ -1,3 +1,32 @@
+Object Assignment vs. Primitive Assignment
+We're about to learn how primitive assignment works and how it's different from object assignment.
+
+Primitives vs. objects
+Let's recall the different primitive types and objects in JavaScript.
+
+Primitive types: number, string, Boolean, Null, Undefined, Symbol
+
+Object types: Object, array, date
+
+How we assign values to primitive types
+Assigning a primitive value to a variable is pretty direct. The value is assigned to the variable.
+
+Object assignment
+Object assignment works differently. This is what happens when we assign an object to a variable:
+
+It creates an object in memory (heap)
+It assigns a reference to that object and stores that reference in a variable
+
+
+(1)
+Note: Be careful when copying objects; this can be unintended, and you may get unexpected results.
+
+Task instructions
+Open the equals-operator.js file and create the array scottishCity and the variable americanCity. 
+
+Re-assign the array to the americanCity variable. Find out the results.
+
+(2)
 Task instructions
 Open the equals-operator-01 folder, select the soccer-manager.js file and work on the arrays assignment.
 
