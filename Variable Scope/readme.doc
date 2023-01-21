@@ -1,0 +1,18 @@
+Variable Scope
+---------
+
+Scope
+
+Task instructions
+You task in this activity is to declare a variable inside the function yourPet defined in the scope.js file located inside the scope folder.
+
+Note that there are two functions, myPet and yourPet, both return an animal. However, the value of the animal 
+returned by yourPet should be different than the one myPet returns.
+
+To accomplish this task, note the following:
+
+You cannot hard-code return 'cat' inside the yourPetfunction.
+yourPet must return a variable named animal.
+yourPet should not reassign the existing animal variable declared on the first line (in the global scope).
+Hint: Remember that variables declared inside a function are within the function's scope.
+
