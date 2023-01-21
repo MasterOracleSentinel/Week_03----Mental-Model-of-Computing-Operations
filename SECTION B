@@ -1,0 +1,38 @@
+(1)
+What We Should Be Thinking About When We Code
+
+Create your own real-world mental model of a computer using analogies for the CPU, stack, heap, machine instructions, and input and output. 
+
+For example: 
+
+Input: A waitress brings a food order to the kitchen. 
+
+CPU: The chef. He sees the order is for a large lasagna. 
+
+Machine instructions:  Small individual steps the chef needs to take to make the lasagna.
+
+Such as:
+
+Boil water
+Make ricotta cheese stuffing
+Cook noodles
+Assemble lasagna in layers
+Bake at 400 degrees for 15 minutes
+Stack: The cooking process to create the dish, which has several interrelated steps to be executed one at a time.  
+For example, Step 2: Making ricotta cheese stuffing may have a subsection of melting butter, which he must do before 
+proceeding with the much larger task of finishing the cheese stuffing. The process stops at some points and starts 
+again at others depending on what he must do next to cook the food. 
+
+Heap:  It is where individual ingredients are stored, like a pantry or a refrigerator.  The ingredients for lasagna 
+are noodles and sauce stored in the pantry, and cheese stored in the fridge. The ingredients for a JavaScript program
+are objects, arrays, strings, numbers, etc., and they are stored in the computer’s memory. 
+
+Output: The finished lasagna, which the waitress brings to the customer. 
+
+Be creative, have fun, and don’t worry about getting it absolutely right or perfect. You will refine this mental model as you go along! 
+
+Submission Instructions:
+
+Word count: 200-500
+You are encouraged to reply to your fellow learners to continue the conversation, particularly about the output. Do you think the 
+output described will successfully occur?
