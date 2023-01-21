@@ -1,0 +1,29 @@
+Task instructions
+Open the equals-operator-01 folder, select the soccer-manager.js file and work on the arrays assignment.
+
+A soccer coach is trying to come up with the best "playing style" strategy to make his team play in 2 soccer league cups.
+He has 2 available sets of players: firstTeam and secondTeam.
+Let's help the manager set the best playing style. He has to choose between two possible positions for his teams:
+3, 3, 1, 3 formation
+4, 1, 4, 1 formation
+Declare a function called getPlayingStyle with no arguments
+Inside the function define 2 array variables, firstTeam and secondTeam
+Set firstTeam equal to the following array elements [3,3,1,3]
+Set secondTeam equal to firstTeam
+
+However, if the game becomes more challenging, the manager will opt for a more aggressive style of play, the [4,1,4,1] style.
+
+Change the playingstyle by setting firstTeam to the following new values:
+
+first element to 4
+second element to 1
+third element to 4
+fourth element to 1
+Finally, return secondTeam array.
+
+Hint: Remember that arrays are zero indexed.
+
+Do you think secondTeam has kept the same playing style or introduced a different one?
+Run the code in the console to find out what secondTeam's final playing style is.
+Check your task when complete.
+
