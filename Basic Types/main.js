@@ -4,7 +4,7 @@ Basic Types activity
 */
 //your code here
 
-var myFirstName = 'Krishna';
+var myFirstName = 'Kris';
 var numberOfCities = 3;
 var havingFun = true;
 
