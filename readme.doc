@@ -1,0 +1,17 @@
+In Week 3: Mental Model of Computing Operations, you will distinguish between data types and 
+explain how scope impacts their storage and execution. You will learn how to define objects and
+when to pass an object, a local variable, or global variable into a function. You will also practice 
+debugging your code, which will help you solve errors that may appear in your code. This is an essential 
+skill for programmers. By the end of this week, you will be able to implement web animations using JavaScript. 
+
+This foundations week is designed to reinforce foundational programming concepts in JavaScript. If you are
+an experienced programmer in JavaScript or in another language, we encourage you to skip ahead to the coding 
+assignments, then review the videos and activities if you need more practice. 
+
+Coding Activities
+* Basic TypesLinks to an external site.
+* ScopeLinks to an external site.
+* Equals OperatorLinks to an external site.
+
+Coding Assignments
+* Graphics Animation of the Random Walk Assignment
