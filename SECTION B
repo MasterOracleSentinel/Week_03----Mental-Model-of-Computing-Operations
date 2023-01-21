@@ -36,3 +36,38 @@ Submission Instructions:
 Word count: 200-500
 You are encouraged to reply to your fellow learners to continue the conversation, particularly about the output. Do you think the 
 output described will successfully occur?
+
+
+(2)
+
+Global, Local, And Block Scope
+
+Instructions:
+
+In your tech career, you will often hear the term “use case”. A use case is a concrete example of how a piece of technology can be used. For example, in the real-world, one use case for a microwave is to warm up leftover lasagna for lunch. In the coding world, one use case for an array could be to store a list of names of enrolled students in a program that tracks student engagement.
+
+For this exercise, you are going to imagine a use case for each of the three types of scoped variables Professor Williams discussed: Global, local, and block scope. 
+
+Variables can be declared in the following scopes:
+
+Global scope to be accessible and changeable anywhere in the program
+Local scope to be accessible and changeable anywhere inside of the function they were declared in
+Block scope to be accessible and changeable anywhere inside the block they were declared in
+Let’s imagine writing a program that tracks students’ grades for a class. Address the following questions in your post to this discussion.
+
+What would be the use case for a globally scoped variable in this program?
+What are some data you would want to have available to you anywhere in the program? (An example could be a roster of 
+currently enrolled students, stored in an object.)
+What would be the use case for a locally scoped variable in this program?
+What are some data you would want to have available only in certain parts of your program?  (An example could be a chart 
+of individual student's grades for their assignments during the course.)
+What would be the use case for a block-scoped variable in this program?
+What are some data you would want to have available in only extremely small parts of your program? (An example could be an 
+individual student’s grade in one small assessment during the course.) 
+Submission Instructions:
+
+Word count: 50-100
+You are encouraged to reply to your fellow learners to continue the conversation. Are there ideas and suggestions that your 
+peers have that you had not considered? Tell them about it!
+
+
