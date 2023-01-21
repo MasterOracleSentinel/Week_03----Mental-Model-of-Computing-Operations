@@ -1,0 +1,18 @@
+Basic Types  
+
+Key concepts
+What is a value? A value is data that we store and manipulate. Examples of values include the number 13 and the name "Mary".
+
+What is a type? A type helps us group similar values on which common operations can be performed.
+
+
+
+Task instructions
+Open the basic-types-01 folder and write code in the main.js file.
+
+Create a variable called myFirstName. Assign myFirstName a string value that represents your name.
+
+Create another variable called numberOfCities. Assign numberOfCities a number value that represents the number of cities you visited last year.
+
+Create another variable called havingFun. Assign havingFun a Boolean value that reflects whether you're having fun.
+
